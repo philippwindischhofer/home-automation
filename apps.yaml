@@ -1,0 +1,16 @@
+---
+solar_mgr:
+  module: solar_mgr
+  class: SolarMgr
+
+hoymiles_mgr:
+  module: hoymiles_mgr
+  class: HoymilesMgr
+
+statistic_mgr:
+  module: statistic_mgr
+  class: StatisticMgr
+
+froeling_mgr:
+  module: froeling_mgr
+  class: FroelingMgr
